@@ -1,0 +1,29 @@
+{
+    "upload_type": "dataset",
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "access_right": "open",
+    "title": "CLDF Dataset derived from Dunn's \"IELex\" from 2012",
+    "contributors": [
+        {
+            "type": "Other",
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Dunn, Michael"
+        }
+    ],
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Dunn, Michael (2012): Indo-European Lexical Cognacy Database. Max Planck Institute for Psycholinguistics: Nijmegen.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
