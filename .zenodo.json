@@ -13,8 +13,8 @@
     "title": "CLDF Dataset derived from Dunn's \"IELex\" from 2012",
     "contributors": [
         {
-            "type": "Other",
-            "name": "Johann-Mattis List"
+            "name": "Johann-Mattis List",
+            "type": "Other"
         }
     ],
     "creators": [
